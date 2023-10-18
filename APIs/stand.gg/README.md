@@ -3,4 +3,4 @@ https://stand.gg/versions.txt  - Get the latest loader and DLL version. Format E
 
 https://stand.gg/launchpad_update - Download the latest loader
 
-https://stand.gg/Stand%20<loader version>.dll - Download a specific loader version.  Example: https://stand.gg/Stand%201.8.10.dll
+https://stand.gg/Stand%20<dll version>.dll - Download a specific dll version.  Example: https://stand.gg/Stand%20109.dll
